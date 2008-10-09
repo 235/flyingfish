@@ -1,0 +1,1 @@
+Flying Fish - mapper from RDF (Redland) to Python classes
